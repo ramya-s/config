@@ -8,4 +8,4 @@
 # You can override any settings in the application.yml on the 
 # billboard.yml file from this file.
 
-message: "This is the dev profile - Hello Spring Cloud Config!"
+message: "This is the dev profile - Billboards are awesome!"
